@@ -1,2 +1,2 @@
 # TreasureIslandGame
-A simple ascii game notebook
+A simple ascii game notebook. 
